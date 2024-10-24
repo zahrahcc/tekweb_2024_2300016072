@@ -1,0 +1,46 @@
+p {
+  color: red;
+}
+h1 {
+  font-size: 60px;
+  text-align: center;
+}
+p, h2 {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+  border: 5px solid white;
+}
+ h2 {
+      font-size: 1.8rem;
+ } 
+body {
+  width: 600px;
+  margin: 0 auto;
+  padding: 0 20px 20px 20px;
+  
+}
+body {
+  background-image: url('https://e1.pxfuel.com/desktop-wallpaper/422/14/desktop-wallpaper-gambar-backgrounds-polos-5-background-polos.jpg');
+  background-size: cover;
+  background-position: center; 
+} 
+
+ul {
+  list-style: none; 
+  padding: 0; 
+ }
+ul li {
+  background-color: #c5caf5;
+  padding: 15px;
+  margin-bottom: 10px;
+  border-left: 5px solid #c5bbff;
+}
+img {
+  display: block;
+  margin: 0 auto;
+  width: 400px;
+  height: auto;
+  border-radius: 50%;
+}
+
